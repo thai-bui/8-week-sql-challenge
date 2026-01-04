@@ -26,7 +26,7 @@ The business wants insights across:
 | File | Purpose |
 |-----|--------|
 | **setup.sql** | Creates schemas, tables, and inserts the raw Pizza Runner data |
-| **solution.sql** | Full end-to-end solution: data cleaning, SQL answers for Parts A–E, and inline result outputs |
+| **solution.sql** | Full end-to-end solution: data cleaning, SQL answers for Parts A–E, and inline result outputs. Additional documentation for specific answers are also included under each question.|
 | **README.md** | Explains context, data issues, and solution decisions |
 
 ---
