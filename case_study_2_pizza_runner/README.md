@@ -1,4 +1,4 @@
-# 🍕 Case Study 2: Pizza Runner — SQL Solutions
+# Case Study 2: Pizza Runner — SQL Solutions
 
 This repository contains my full SQL solution for **Case Study #2: Pizza Runner** from Danny Ma’s **#8WeekSQLChallenge**, implemented in PostgreSQL.
 
