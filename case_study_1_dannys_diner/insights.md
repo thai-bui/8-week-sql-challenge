@@ -1,4 +1,4 @@
-# 🍽️ Case Study 1: Danny's Diner SQL Challenge Solutions
+# Case Study 1: Danny's Diner SQL Challenge Solutions
 
 This repository contains the setup, solutions, and business insights for **Case Study 1: Danny's Diner** of the Danny Ma **#8WeekSQLChallenge**.
 
