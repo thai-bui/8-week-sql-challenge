@@ -14,7 +14,7 @@ Danny’s Diner is sitting on raw data that's currently useless to him. I’m us
 | File / Folder | Purpose |
 |---------------|----------|
 | **setup.sql** | Contains DDL (CREATE TABLE) and DML (INSERT) statements to fully recreate the database schema and data set for Danny's Diner. |
-| **solutions.sql** | Contains the SQL queries for all 10 challenge questions (plus bonus questions) and the raw data output as comments below each query. |
+| **solutions.sql** | Contains the SQL queries for all 10 challenge questions (plus bonus questions) and the raw data output as comments below each query. Additional documentation for specific answers are also included under each question. |
 | **insights.md (Current File)** | Contains the detailed business analysis and summarized findings derived from the SQL results. |
 
 ---
