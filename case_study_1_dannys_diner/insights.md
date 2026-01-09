@@ -4,12 +4,12 @@ This repository contains the setup, solutions, and business insights for **Case 
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 Danny’s Diner is sitting on raw data that's currently useless to him. I’m using PostgreSQL to strip away the noise and find out exactly who is spending money, how much they are spending and what they’re eating. This exercise about finding the specific insights Danny needs to stop guessing and start making data-driven decisions about his loyalty program and daily operations.
 
 ---
 
-## 🛠️ Repository Contents
+## Repository Contents
 
 | File / Folder | Purpose |
 |---------------|----------|
@@ -19,7 +19,7 @@ Danny’s Diner is sitting on raw data that's currently useless to him. I’m us
 
 ---
 
-## 📈 Analytical Insights Summary
+## Analytical Insights Summary
 
 ### 1. Customer Spending and Frequency
 The customer base shows a clear spending tier, with Customer A ($76) and Customer B ($74) established as the top-tier spenders, with each of the customers spending double Customer C’s total spend ($36). Customer B went to the restaurant most times, 50% more times than Customer A, and three times that of Customer C. Thus, Customer A has a significantly higher average spending habit per visit. This is likely influenced by consumption volume or their successful effort to maximize rewards during the initial promotional period. Customer C may need incentives provided to increase their spending for retention purposes.
