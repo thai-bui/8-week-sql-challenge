@@ -6,7 +6,7 @@ Unlike Case Study 1, this week focuses less on storytelling and more on data int
 
 ---
 
-## 🎯 Business Context
+## Business Context
 
 Pizza Runner is a fictional pizza delivery startup that tracks:
 - customer orders
@@ -21,7 +21,7 @@ The business wants insights across:
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 | File | Purpose |
 |-----|--------|
@@ -31,7 +31,7 @@ The business wants insights across:
 
 ---
 
-## 🧹 Data Cleaning & Normalization Decisions
+## Data Cleaning & Normalization Decisions
 
 Same as any analysis, the provided raw data required cleanup for functionality:
 
@@ -61,7 +61,7 @@ These were cleaned and cast to numeric values to enable:
 
 ---
 
-## ⚠️ Critical Schema Nuance: Why `num_row` Exists in solution
+## Critical Schema Nuance: Why `num_row` Exists in solution
 
 At first glance, some of the logic and SQL in the solutions file may look longer or more complex than expected.
 This is intentional - most of the extra logic comes from having to explicitly model pizza-level identity in a schema that is not provided originally.
@@ -88,7 +88,7 @@ Without a unique row identifier:
 
 ---
 
-## ✅ My Solution: Synthetic Pizza Identifier (`num_row`)
+## My Solution: Synthetic Pizza Identifier (`num_row`)
 
 To preserve pizza-level granularity, I introduce:
 
