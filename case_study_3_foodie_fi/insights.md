@@ -4,12 +4,12 @@ This repository contains the setup, solutions, and business insights for **Case 
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 Foodie-Fi was launched in 2020 to capitalize on the growing popularity of subscription-based businesses by offering a niche streaming platform focused exclusively on food-related content. The platform operates on monthly and annual subscriptions, giving customers unlimited on-demand access to curated cooking content from around the world. This project uses Foodie-Fi’s subscription data to answer key business questions and demonstrate how data can be used to guide product and investment decisions.
 
 ---
 
-## 🛠️ Repository Contents
+## Repository Contents
 
 | File / Folder | Purpose |
 |---------------|----------|
@@ -19,7 +19,7 @@ Foodie-Fi was launched in 2020 to capitalize on the growing popularity of subscr
 
 ---
 
-## 📈 Analytical Insights Summary
+## Analytical Insights Summary
 
 ### Customer Base and Monthly Acquisition
 Foodie‑Fi has accumulated 1000 customers all time. This represents the entire customer base with no sampling bias.
@@ -47,4 +47,5 @@ There were a total of 236 (23.6%) of customers by the end of 2020 who decided to
 
 ![](graphs/days_to_upgrade_to_annual_plan.png)
 On average it took 105 days for a customer to upgrade to an annual plan from the day they join Foodie‑Fi. Breaking down this statistic even further: around 19% of customers took within 1 month to make that decision, and 95% of customers took within 6 months to upgrade into an annual plan. This provides Foodie‑Fi with a clear upsell window for its existing customers.
+
 
