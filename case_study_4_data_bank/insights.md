@@ -26,7 +26,6 @@ Data Bank evaluates several balance‑driven allocation strategies to understand
 
 ![](data_allocation_chart.png)
 
----
 
 ### Option 1: Allocation Based on End‑of‑Month Closing Balance
 **Description:** Allocates data using each customer’s closing balance at the end of the previous month.
